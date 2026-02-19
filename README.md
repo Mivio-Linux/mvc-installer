@@ -1,6 +1,11 @@
 # mvc-installer
 Installation scripts for mvc (mvc-cli)
-to install you need execute:
+
+you need installed packages:
+`git`,
+`wget`,
+`cargo` (Rust
+to install mvc execute:
 ```bash
-curl https://raw.githubusercontent.com/Mivio-Linux/mvc-installer/refs/heads/main/installer.sh | sh
+wget https://raw.githubusercontent.com/Mivio-Linux/mvc-installer/refs/heads/main/installer.sh | sh
 ```
