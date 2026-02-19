@@ -1,12 +1,9 @@
-#!/bin/sh
+ #!/bin/sh
 set -e
 echo "Making dir for build"
 mkdir mvc
 cd mvc
-echo "Cloning mvc_core"
-git clone https://github.com/Mivio-Linux/mvc-core.git
-mv mvc-core mvc_core
-echo "Cloning mvc_cli"
+echo "Cloning mvc"
 git clone https://github.com/Mivio-Linux/mvc-cli.git
 cd mvc-cli
 echo "Building"
