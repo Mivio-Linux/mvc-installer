@@ -1,4 +1,7 @@
 # mvc-installer
+> ### ⚠️ Migrated to Codeberg
+>
+> This project has [migrated to Codeberg](https://codeberg.org/miviolinux).
 Installation scripts for mvc (mvc-cli)
 
 you need installed packages:
